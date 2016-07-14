@@ -1,6 +1,5 @@
 <html>
 <body>
-<h2>Hello Priya!</h2>
-<p>Start my learning.</p>
+<h2>Hello World!</h2>
 </body>
 </html>
